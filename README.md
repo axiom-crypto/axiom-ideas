@@ -5,5 +5,4 @@ Developers query historic data from Ethereum via Axiom, and Axiom trustlessly fu
 ## Workflow
 Here you will find a library of ideas that have been built or can be built on Axiom. Feel free to read through them for inspiration and explore the topics you are interested in. 
 
-If you would like to work on any ideas listed here or propose your own, feel free to directly reach out to the team ([Discord](https://discord.com/invite/4nDgMUq7Ra)). We will work out a proposal together to ensure that you can successfully build out the ideas. 
-
+If you would like to work on any ideas listed here or propose your own, comment directly on the Github issue or come discuss with us on [Telegram](https://t.me/axiom_discuss).
